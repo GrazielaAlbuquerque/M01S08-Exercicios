@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\Ana\\Desktop\\MANA LINDA\\M1S08-Exercicios-main\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\Ana\\Desktop\\MANA LINDA\\M1S08-Exercicios-main\\Exercicios.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "Exercicios",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
